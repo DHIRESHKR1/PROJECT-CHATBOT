@@ -2,4 +2,4 @@
 
 This is week 04.
 
-'The project focuses on creating a Chat Bot that can support multiple business use cases. This week, we completed the initial planning and architecture work, and the demo version currently running without a GUI or extra features is almost ready to use.'
+'The rule-based chatbot demo has been successfully developed and is ready for use. Currently, it operates without a GUI, and work is in progress to enable button-based user interaction. Further enhancements will be completed and reported in the next phase.'
